@@ -1,10 +1,6 @@
 #!/bin/sh
 
 
-
-#newacces
-
- chmod +x ./autoarm.sh
 #UPDATESYSTEM
 
 sudo apt update -y
