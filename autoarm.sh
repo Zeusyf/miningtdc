@@ -1,5 +1,10 @@
 #!/bin/sh
 
+
+
+#newacces
+
+ chmod +x ./autoarm.sh
 #UPDATESYSTEM
 
 sudo apt update -y
@@ -9,6 +14,11 @@ sudo apt update -y
  sudo apt-get install build-essential libcurl4-openssl-dev autotools-dev automake libtool -y
  
  #ingredients
+
+ #NEWRUN
+ cd
+ 
+ #insen
  
  git clone https://github.com/zeusyf/sugarmaker
  
