@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# AUTO RUN
-chmod +x ./autoamd.sh
-
 #GG
 cd
 
